@@ -1,0 +1,5 @@
+pytube
+PyPDF2==1.26.0
+googletrans==4.0.0rc1
+gtts==2.2.3
+TTS
